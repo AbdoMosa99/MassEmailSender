@@ -1,8 +1,0 @@
-<h4>Dear %%Name%%,</h4>
-
-<p>I hope you are fine and everything is okay!</p>
-
-<p>You are selected to be one of the participants in testing the <span style="color:blue"><b>sending emails python program</b></span>.
-We hope it works!</p>
-
-<h4>Yours, Mosa<h4>
